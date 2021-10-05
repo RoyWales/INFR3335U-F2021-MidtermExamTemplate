@@ -1,3 +1,7 @@
 # INFR3335U-F2021-MidtermExamTemplate
 
-Midterm Exam Template for INFR3335U in the Fall 2021 Semester
+Roy Wales 100746617
+
+Youtube Link: https://youtu.be/D5zyNWklWms
+
+WebGL Link: https://roywales.github.io/INFR3335U-F2021-MidtermExamTemplate/
