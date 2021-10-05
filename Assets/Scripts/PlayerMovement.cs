@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public CharacterController controller;
     private Vector3 playerVelocity;
-    private float playerSpeed = 4.0f;
+    private float playerSpeed = 3.0f;
     private float gravityValue = -3.0f;
 
     // Update is called once per frame
